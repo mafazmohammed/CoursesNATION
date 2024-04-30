@@ -47,7 +47,7 @@ section {
 
 /* Hero Section Styles */
 .hero {
-    background-image: url('background\ photo.jpg');
+    background-image: url(../media/background-photo.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
